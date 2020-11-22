@@ -1,0 +1,16 @@
+Name|# burgers|# fries|# coke
+basil|1|2|3
+basil|1|2|3
+julie|3|2|1
+ikki|1|1|1
+basil|1|1|2basil|1|1|2
+julie|2|2|3julie|2|2|3
+bilvi|1|1|1bilvi|1|1|1
+binil|2|2|2binil|2|2|2
+bilso|3|3|3bilso|3|3|3
+hello|1|2|3hello|1|2|3
+bye|3|2|1bye|3|2|1
+qaw|1|2|3qaw|1|2|3
+waq|3|2|1waq|3|2|1
+qaw|1|2|3qaw|1|2|3
+waq|3|2|1waq|3|2|1
